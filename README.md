@@ -1,4 +1,4 @@
-### Hey 👋, I'm Joseph Petersen aka. Jetersen
+### Hey 👋, I'm Joseph Petersen aka. jetersen
 
 [![twitter profile](https://img.shields.io/badge/-@jetersen-00acee?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/jetersen)
 [![linkedin profile](https://img.shields.io/badge/-jetersen-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jetersen/)](https://www.linkedin.com/in/jetersen/)
