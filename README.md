@@ -6,7 +6,7 @@
 [![chat via matrix](https://img.shields.io/website?style=flat-square&down_color=grey&down_message=jetersen&label=%20&logo=matrix&up_color=grey&up_message=jetersen&url=https%3A%2F%2Fmatrix.to%2F%23%2F%40jetersen%3Amatrix.org)](https://matrix.to/#/@jetersen:matrix.org)
 [![github profile](https://img.shields.io/badge/-@jetersen-%23181717?style=flat-square&logo=github)](https://github.com/jetersen)
 
-I love to work on open source ❤️ and at the moment I work for [Devoteam G Cloud](https://www.devoteam.com/) as a Lead Google Cloud Consultant. 👨‍🏭\
+I love to work on open source ❤️ and at the moment I work for [Devoteam G Cloud](https://gcloud.devoteam.com/) as a Lead Google Cloud Consultant. 👨‍🏭\
 Where I do my best to promote open source and everything as code! 👏\
 Feel free to checkout my projects and my [GitHub sponsor profile](https://github.com/sponsors/jetersen) 🙋‍♂️
 
