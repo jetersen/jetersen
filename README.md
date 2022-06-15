@@ -12,4 +12,4 @@ Feel free to checkout my projects and my [GitHub sponsor profile](https://github
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-![jetesen's github stats](https://github-readme-stats.vercel.app/api?username=jetersen&show_icons=true&theme=dracula)
+![jetesen's github stats](https://github-readme-stats.vercel.app/api?username=jetersen&show_icons=true&theme=dracula&count_private=true)
