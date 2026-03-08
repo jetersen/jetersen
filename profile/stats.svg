@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Joseph Petersen's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 171, Total Commits  (last year) : 361, Total PRs: 1278, Total Issues: 318, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 171, Total Commits  (last year) : 356, Total PRs: 1278, Total Issues: 318, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 35.954004661104335;
+        stroke-dashoffset: 36.16892154242742;
       }
     }
   
@@ -169,7 +169,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >361</text>
+      >356</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
