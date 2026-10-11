@@ -130,17 +130,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="66.46"
+          width="72.74"
           height="8"
-          fill="#7355dd"
+          fill="#00ADD8"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="66.46"
+          x="72.74"
           y="0"
-          width="62.89"
+          width="64.47"
           height="8"
           fill="#3572A5"
         />
@@ -148,51 +148,51 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="129.35"
+          x="137.20999999999998"
           y="0"
-          width="61.55"
+          width="60.18"
           height="8"
-          fill="#ff5a03"
+          fill="#f1e05a"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="190.89999999999998"
+          x="197.39"
           y="0"
-          width="59.11"
+          width="52.61"
           height="8"
-          fill="#f1e05a"
+          fill="#7355dd"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#7355dd" />
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 26.58%
+        Go 29.09%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 25.16%
+        Python 25.79%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 24.62%
+        JavaScript 24.07%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 23.64%
+        C# 21.05%
       </text>
     </g>
   </g></g>
